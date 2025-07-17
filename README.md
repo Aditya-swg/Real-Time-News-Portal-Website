@@ -3,12 +3,15 @@
 📰 Real-Time News Portal Website : The Real-Time News Portal Website is a dynamic web application that delivers the latest news from various categories such as technology, sports, business, health, and entertainment. It fetches live data using the News API, offering users an engaging and responsive interface to stay informed with current events around the globe.
 
 
+![image](https://github.com/Aditya-swg/Real-Time-News-Portal-Website/blob/main/Screenshot%20(42).png)
+
 🌟 Features:
 - 📡 Real-time News Fetching – Fetches and displays live headlines using the News API.
 - 🔍 Category-Based Filtering – Users can browse news by categories like Sports, Tech, Business, etc.
 - 🖼️ Thumbnail & Description Preview – Displays images, titles, brief summaries, and publication times.
 - 💡 Responsive Design – Fully responsive UI for desktop, tablet, and mobile screens.
 - 🧭 Intuitive Layout – Clean and minimal design for easy navigation and readability.
+
 
   
 🔧 Tech Stack:
